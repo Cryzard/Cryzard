@@ -1,4 +1,4 @@
-M.Sc. in Physics \n
+M.Sc. in Physics, 
 PhD student at the University of Regensburg, Germany
 
 <!--
