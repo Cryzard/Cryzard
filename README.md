@@ -1,4 +1,5 @@
-## Hi there 👋
+M.Sc. in Physics
+PhD student at the University of Regensburg, Germany
 
 <!--
 **Cryzard/Cryzard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
